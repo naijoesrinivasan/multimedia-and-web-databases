@@ -1,0 +1,3 @@
+pip install cv2 torchvision torch pandas numpy scipy PIL tqdm matplotlib sklearn pickle tensorly tensortools streamlit pathlib
+
+conda install -c conda-forge opencv
